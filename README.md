@@ -1,4 +1,5 @@
 ### Hi there 👋
+These are some the projects i've done in college and free time!
 
 <!--
 **utdady/utdady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
