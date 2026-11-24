@@ -1,6 +1,6 @@
 # Aditya Bhaskar
 
-Data scientist (Mathematics and CS, UC Santa Cruz) building applied AI — RAG and agents, optimization, and ML pipelines. Open to remote roles.
+Data scientist (Computational Mathematics and CS, UC Santa Cruz) building applied AI — RAG and agents, optimization, and ML pipelines. Open to remote roles.
 
 ## Featured work
 
